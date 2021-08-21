@@ -1,0 +1,16 @@
+C:\Users\Cgomes\source\repos\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.exe
+C:\Users\Cgomes\source\repos\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.csprojAssemblyReference.cache
+C:\Users\Cgomes\source\repos\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.AssemblyInfoInputs.cache
+C:\Users\Cgomes\source\repos\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.AssemblyInfo.cs
+C:\Users\Cgomes\source\repos\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.deps.json
+C:\Users\Cgomes\source\repos\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.runtimeconfig.json
+C:\Users\Cgomes\source\repos\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.runtimeconfig.dev.json
+C:\Users\Cgomes\source\repos\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.dll
+C:\Users\Cgomes\source\repos\rabbitmq\bin\Debug\netcoreapp3.1\rabbitmq.pdb
+C:\Users\Cgomes\source\repos\rabbitmq\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Cgomes\source\repos\rabbitmq\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Cgomes\source\repos\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.csproj.CoreCompileInputs.cache
+C:\Users\Cgomes\source\repos\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.csproj.CopyComplete
+C:\Users\Cgomes\source\repos\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.dll
+C:\Users\Cgomes\source\repos\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.pdb
+C:\Users\Cgomes\source\repos\rabbitmq\obj\Debug\netcoreapp3.1\rabbitmq.genruntimeconfig.cache
