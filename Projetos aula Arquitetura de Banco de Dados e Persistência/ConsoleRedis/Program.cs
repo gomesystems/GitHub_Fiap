@@ -8,7 +8,7 @@ namespace ConsoleRedis
     {
         static void Main(string[] args)
         {
-            string connectionString = "localhost";//"40.65.216.220";
+            string connectionString = "localhost";
             var redis = ConnectionMultiplexer.Connect(connectionString);
             var db = redis.GetDatabase();
 
