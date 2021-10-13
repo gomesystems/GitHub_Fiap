@@ -11,7 +11,7 @@ namespace rabbitmq
         static void Main(string[] args)
         {
             var factory = new ConnectionFactory();
-            factory.Uri = new Uri("amqp://user:fiap@40.65.216.220:5672");
+            factory.Uri = new Uri("");
             factory.ConsumerDispatchConcurrency = 100;
 
             var connection = factory.CreateConnection();
