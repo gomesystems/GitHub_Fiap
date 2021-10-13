@@ -13,8 +13,8 @@ namespace Kafka
                 BootstrapServers = "dory-01.srvs.cloudkafka.com:9094,dory-02.srvs.cloudkafka.com:9094,dory-03.srvs.cloudkafka.com:9094",
                 SecurityProtocol = SecurityProtocol.SaslSsl,
                 SaslMechanism = SaslMechanism.ScramSha256,
-                SaslUsername = "mus9pr80",
-                SaslPassword = "ybU2YSWcDe-FmNIHbuNSxX30Plk0Boos"
+                SaslUsername = "",
+                SaslPassword = ""
             };
           
             var configConsumer = new ConsumerConfig()
